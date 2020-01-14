@@ -1,6 +1,6 @@
 <view class="container">
 <view class="ar_coverpath">
-    <image src="../../images/skilledt_banner.png" mode="aspectFill"></image>
+    <image src="../../images/avatar.jpg" mode="aspectFill"></image>
 </view>
 <view class="ar_cont">
     <view class="ar_cont_h1">包技师</view>
